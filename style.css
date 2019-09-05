@@ -1,0 +1,12 @@
+body {
+    background-color: #f9f9f9;
+}
+
+h1 {
+    font-family: 'Montserrat', 'Lato', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #060402;
+    text-align: center;
+    margin-top: 50px;
+}
